@@ -421,6 +421,7 @@ Third-party plugins built by the community. [PRs welcome](#contributing)!
 - [ru-text](https://github.com/talkstream/ru-text) - Russian text quality — ~1,044 rules for typography, info-style, editorial, UX writing, and business correspondence.
 - [Rust Reverse Engineering](https://github.com/jingjing2222/rust-reverse-engineering-skill) - Reverse engineer Rust binaries and libraries: triage targets, demangle symbols, recover crate namespaces, and map panic, unwind, async, and FFI paths.
 - [ScrapeGraph AI](https://github.com/ScrapeGraphAI/just-scrape) - AI-powered web scraping CLI to search, scrape, extract structured JSON, crawl, and monitor web pages via the ScrapeGraph AI API.
+- [sectionsight](https://github.com/Majny/sectionsight) - Sets up cookieless, privacy-first website analytics (time per page section, consent banner, Slack or e-mail reports, health alerts) and proves the privacy claims with a headless-browser check.
 - [SEO Dungeon](https://github.com/avalonreset/seo-dungeon) - Gamified local SEO audits that turn website issues into 16-bit dungeon battles for Codex, Claude, and Gemini CLI workflows.
 - [Sendpaper](https://github.com/ryan-tish/sendpaper-plugin) - Send real postcards and letters to US addresses from Codex, with an exact print preview, payment only with your approval, and USPS First-Class mailing via a hosted MCP server.
 - [Sendsets](https://github.com/AddisonHoff/sendsets) - Send cold email from Codex: connect and warm up mailboxes, build and launch outbound sequences, and answer replies through the Sendsets MCP server.
